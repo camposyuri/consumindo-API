@@ -1,5 +1,10 @@
 # Consumir API
 
+NOSSO frontend está consumindo o NOSSO backend e que por sua vez está consumindo OUTRO backend
+
+- O frontend está batendo no nosso backend
+- O nosso backend está batendo em outro backend (outro serviço externo)
+
 ## API
 
 Criar um API
@@ -25,7 +30,7 @@ Consumir API
 
 Consumir API
 
-- jsonplaceholder
+- jsonplaceholder (https://jsonplaceholder.typicode.com/users)
 - usar axios
 - semelhanças entre axios e fetch
 - usar try/catch
