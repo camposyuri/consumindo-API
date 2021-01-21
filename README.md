@@ -19,6 +19,7 @@ Consumir API
 - Explicar Promise - Async/await
 - Usar try/catch
 - Mostrar a resposta na tela
+- Usar `npx lite-server`
 
 ## Backenb
 
